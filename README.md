@@ -30,6 +30,7 @@ Take a screenshot of each query with the results and paste it into a single docu
 ![q5](https://github.com/eccecarreon/world/assets/153371886/3c8f4eb1-498d-46d8-b488-72b99f0e3cc9)
 
 6. What query would you run to get all the cities in Mexico with a population of greater than 500,000? Your query should arrange the result by population in descending order.
+
 ![q6](https://github.com/eccecarreon/world/assets/153371886/974aabb3-c157-4480-82ed-c97a7efaafdd)
 
 7. What query would you run to get all languages in each country with a percentage greater than 89%? Include the country name, language, and percentage. Your query should arrange the result by percentage in descending order.
