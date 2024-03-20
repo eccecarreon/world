@@ -1,6 +1,7 @@
 # Practice
 
 Using the world database and the pictured ERD, complete all 8 of the below queries.
+
 ![erd](https://github.com/eccecarreon/world/assets/153371886/3e75037c-6ccd-4d8e-8dbf-42e397900ff9)
 
 We will use the world database that we loaded into MySQL workbench in the lesson titled "MySQL Workbench" For reference, the file can be found again here. [(download the file here)](https://assets.codingdojo.com/boomyeah/company_209/chapter_3569/handouts/chapter3569_5432_world.sql)
@@ -14,7 +15,6 @@ Take a screenshot of each query with the results and paste it into a single docu
 ## Queries
 
 1. What query would you run to get all the countries with a Surface Area below 501 and a Population greater than 100,000? Include the country name, surface area, and population in your results.
- 
 ![q1](https://github.com/eccecarreon/world/assets/153371886/4c15905f-beb7-49cc-b220-53044d837965)
 
 2. What query would you run to get countries with only a Constitutional Monarchy with a capital greater than 200 and a life expectancy greater than 75 years? Include the country name, form of government, and capital in your results.
