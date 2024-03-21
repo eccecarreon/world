@@ -32,7 +32,7 @@ Take a screenshot of each query with the results and paste it into a single docu
 
 5. What query would you run to display the total number of cities for each country? Your query should return the name of the country and the total number of cities. Your query should arrange the result by the number of cities in descending order.
 
-![q5](https://github.com/eccecarreon/world/assets/153371886/3c8f4eb1-498d-46d8-b488-72b99f0e3cc9)
+![q5](https://github.com/eccecarreon/world/assets/153371886/5b65eeae-8458-4ec1-acbb-5fa3877751f4)
 
 6. What query would you run to get all the cities in Mexico with a population of greater than 500,000? Your query should arrange the result by population in descending order.
 
@@ -45,3 +45,4 @@ Take a screenshot of each query with the results and paste it into a single docu
 8. What query would you run to get all the cities of Argentina inside the Buenos Aires district and have a population greater than 500,000? The query should return the Country Name, City Name, District, and Population.
 
 ![q8](https://github.com/eccecarreon/world/assets/153371886/7eda2977-4f71-47e6-a6d9-cace5093d72d)
+
